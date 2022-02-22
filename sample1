@@ -1,3 +1,4 @@
+this is my first repository
 echo "# Suraj" >> README.md
 git init
 git add README.md
