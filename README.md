@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **about how the modern world works?**
 
-- 📝 I regularly don't write articles on [any thing](any thing)
+- 📝 I regularly don't write articles on any thing
 
 - 💬 Ask me about **Nothing, I choose Peace.**
 
