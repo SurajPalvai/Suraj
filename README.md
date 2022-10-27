@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Reddy</h1>
-<h3 align="center">A passionate Software Engineer & Smart Tech Enthusiast from India</h3>
+<h3 align="center">A passionate Software Engineer & Smart Tech Enthusiast.</h3>
 
 - 🌱 I’m currently learning **about how the modern world works?**
 
